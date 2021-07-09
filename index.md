@@ -3,7 +3,7 @@ This will serve as a brief description of your project. Limit this to three sent
 
 | **Engineer** | **Current Highschool** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| MahinaY | Henry M. Gunn Highschool | Electrical Engineering | Incoming Junior
+| Mahina Y | Henry M. Gunn Highschool | Electrical Engineering | Incoming Junior
 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
   
