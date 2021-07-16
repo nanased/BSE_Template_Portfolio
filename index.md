@@ -1,4 +1,3 @@
-![calendar code](https://user-images.githubusercontent.com/86208680/125990303-4111df51-607f-4814-b291-d67efa9e939a.png)
 ﻿# Smart Mirror
 This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
 
