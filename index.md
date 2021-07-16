@@ -16,6 +16,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 My second milestone is loading the base project. First, I worked on date and time. I used setInterval method to update the time consistently, 1000 milliseconds. I've also worked on weather, which I used openweather API. When starting on using API, I used axios to get the data from a HTTP request, and show the data into console. I tried displaying both celsius and fahrenheit, using the math.round function. After data, time and weather, I worked on Google Calendar API which was the most difficult task in the second milestone. Since the API only allows to display in console, I had to bring it out. Adding to that the calendar plans are listed in array,  which I had to use map function to describe each events. The similarity they have, is interval. To update the data, they all have to get interval or else it will stay the same. 
 
 ![date and time code](https://user-images.githubusercontent.com/86208680/125989968-0dd969e4-0abb-4256-82b6-235e333ba5a3.png)
+![weather code](https://user-images.githubusercontent.com/86208680/125990165-fa0ba0d6-872c-4778-8dd7-bdd840c1ec70.png)
 
 [![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
 # First Milestone
