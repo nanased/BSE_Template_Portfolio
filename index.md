@@ -1,3 +1,4 @@
+![calendar code](https://user-images.githubusercontent.com/86208680/125990303-4111df51-607f-4814-b291-d67efa9e939a.png)
 ﻿# Smart Mirror
 This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
 
@@ -17,6 +18,7 @@ My second milestone is loading the base project. First, I worked on date and tim
 
 ![date and time code](https://user-images.githubusercontent.com/86208680/125989968-0dd969e4-0abb-4256-82b6-235e333ba5a3.png)
 ![weather code](https://user-images.githubusercontent.com/86208680/125990165-fa0ba0d6-872c-4778-8dd7-bdd840c1ec70.png)
+![calendar code](https://user-images.githubusercontent.com/86208680/125990333-b042de9a-1bb2-4847-bc3e-0bd434b37b65.png)
 
 [![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
 # First Milestone
