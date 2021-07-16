@@ -20,4 +20,6 @@ My second milestone is loading the base project. First, I worked on date and tim
 
 My first milestone is to set up Raspberry Pi, and research about the load project of the Smart Mirror. In order to set up Raspberry Pi, I plugged in power, HDMI cable to conenct to my monitor, and also a mouse and a keyboard. I also set up on SSH and VNC to connect to other computer and control from them. I had a trouble turning on the screen which I realized that I had to set the monitor on, then Raspberry Pi's power. I spent many time on researching React, watching videos and moving my hands to figure out how it works. Since I've never touched to React, I had a lot of difficulties learning new things. However, the reseaarch helped me get clear idea of what React is. Afterwards, I forked a repository and followed the instructions to install a template of codes. 
 
+![Headstone Image](![smart mirror plan](https://user-images.githubusercontent.com/86208680/125983245-1f7d3d2c-04b0-400b-a60f-53addb83cce8.png)
+
 [![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1626452238/video_to_markdown/images/youtube--GjW4djhJulg-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=GjW4djhJulg&ab_channel=BlueStampEng "First Milestone")
