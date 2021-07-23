@@ -1,5 +1,5 @@
 ﻿# Smart Mirror
-My project is Smart Mirror, which has cool details on them like date&time, weather, calendar events, and music. It is powered by a Raspberry Pi, using a mirror panel and a small monitor to display. Codes are written by React.js.
+My project is Smart Mirror, which has cool details on them like date&time, weather, calendar events, and music. It is powered by a Raspberry Pi, using a mirror panel and a small monitor to display. Codes are written using React.js.
 
 | **Engineer** | **Current Highschool** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
