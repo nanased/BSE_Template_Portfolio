@@ -6,6 +6,9 @@ This will serve as a brief description of your project. Limit this to three sent
 | Mahina Y | Henry M. Gunn Highschool | Electrical Engineering | Incoming Junior
 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
+
+# Reflection
+
   
 # Final Milestone
 My final milestone is to create the music component and finish building the mirror. I used spotify API on the music component to get the data of the album cover and the song name of the current song playing in spotify. The most difficult part was the backend because I did not touch backend at all in this project, and I had to go slow to be accurate. It was a long pathway, but I still completed within time. Finally, building up on actual mirror had a little struggle when using hot glue gun. It was difficult to put the glues evenly so it won't show on the mirror, which is semi-transparent. Throughout the process, I learned many ways to format also.
