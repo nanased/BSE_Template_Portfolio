@@ -1,5 +1,5 @@
 ﻿# Smart Mirror
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+My project is Smart Mirror, which has cool details on them like date&time, weather, calendar events, and music. It is powered by a Raspberry Pi, using a mirror panel and a small monitor to display. Codes are written by React.js.
 
 | **Engineer** | **Current Highschool** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
