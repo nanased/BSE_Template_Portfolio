@@ -5,7 +5,7 @@ This will serve as a brief description of your project. Limit this to three sent
 |:--:|:--:|:--:|:--:|
 | Mahina Y | Henry M. Gunn Highschool | Software Engineering | Incoming Junior
 
-![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
+![Headstone Image](https://cdn.discordapp.com/attachments/632794105931628544/868193748914421780/unknown.png)
 
 # Reflection
 By completing the project, I figured that I enjoy more into software engineering than hardware, and also designing and formatting. Both was fun and exiciting, however hardware was difficult for me, and I couldn't have as much fun as software. W
