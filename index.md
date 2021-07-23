@@ -15,6 +15,8 @@ By completing the project, I figured that I enjoy more into software engineering
 # Final Milestone
 My final milestone is to create the music component and finish building the mirror. I used spotify API on the music component to get the data of the album cover and the song name of the current song playing in spotify. The most difficult part was the backend because I did not touch backend at all in this project, and I had to go slow to be accurate. It was a long pathway, but I still completed it within time. Finally, building up on actual mirror had a little struggle when using hot glue gun. It was difficult to put the glues evenly so it won't show on the mirror, which is semi-transparent. Throughout the process, I learned many ways to format also.
 
+![image](https://user-images.githubusercontent.com/86208680/126826705-260d92fd-8812-43fc-aa72-cb4052ee29c3.png)
+
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1627061217/video_to_markdown/images/youtube--pV-glzvzfx4-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=pV-glzvzfx4&ab_channel=BlueStampEng "Final Milestone")
 
 # Second Milestone
