@@ -20,7 +20,7 @@ My second milestone is loading the base project. First, I worked on date and tim
 ![weather code](https://user-images.githubusercontent.com/86208680/125990165-fa0ba0d6-872c-4778-8dd7-bdd840c1ec70.png)
 ![calendar code](https://user-images.githubusercontent.com/86208680/125990333-b042de9a-1bb2-4847-bc3e-0bd434b37b65.png)
 
-[![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
+[![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=kOc-aDEDqMg&ab_channel=BlueStampEng){:target="_blank" rel="noopener"}
 # First Milestone
 
 My first milestone is to set up Raspberry Pi, and research about the load project of the Smart Mirror. In order to set up Raspberry Pi, I plugged in power, HDMI cable to conenct to my monitor, and also a mouse and a keyboard. I also set up on SSH and VNC to connect to other computer and control from them. I had a trouble turning on the screen which I realized that I had to set the monitor on, then Raspberry Pi's power. I spent many time on researching React, watching videos and moving my hands to figure out how it works. Since I've never touched to React, I had a lot of difficulties learning new things. However, the reseaarch helped me get clear idea of what React is. Afterwards, I forked a repository and followed the instructions to install a template of codes. 
